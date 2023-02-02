@@ -5,14 +5,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 How to run your project
 
 In the project directory, you can run:
-### `npm start`
+1)  git clone https://github.com/Tata2222/chimoney_cart.git
+
+2) npm start
+
 
 2) Any additional features you implemented
 
 page with favourites products
 
-Your approach to the product, including any design decisions or tradeoﬀs you made
-How you could improve the performance of the app (e.g. loading state, caching, pagination)
+pagination
+
+3) Your approach to the product, including any design decisions or tradeoﬀs you made
+
+scss, BEM, redux-toolkit, react-router-dom 6, lottie
+
 
 
 

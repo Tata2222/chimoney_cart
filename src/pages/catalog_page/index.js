@@ -19,7 +19,6 @@ const CatalogPage = () => {
     setItemOffset(newOffset);
   };
 
-  console.log('render Catalog Page')
   return (
     <div className="catalog catalog_page">
       <div className="catalog_title">
