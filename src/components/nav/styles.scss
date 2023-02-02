@@ -1,0 +1,29 @@
+.nav {
+  display: flex;
+  margin-left: 50px;
+
+  &_item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+  }
+
+  &_item__count {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #eb5757;
+    bottom: 60%;
+    left: 60%;
+    color: #fff;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 14px;
+  }
+}

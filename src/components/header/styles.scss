@@ -1,0 +1,27 @@
+.header {
+  position: sticky;
+  top: -10px;
+  padding: 10px 12px;
+  z-index: 100;
+  background-color: #fff;
+  width: 100%;
+  box-shadow: 0 -6px 10px 5px rgba(0,0,0,0.5);
+
+  &_container {
+    display: flex;
+    justify-content: space-between;
+    max-width: var(--breakpoint-xl);
+    margin: 0 auto; 
+  }
+
+  &_logo {
+    display: flex;
+    align-items: center;
+    background-image: url(../../assets/logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 150px;
+    height: 36px;
+  }
+}
