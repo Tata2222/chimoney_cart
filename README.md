@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 2) Any additional features you implemented
 
-page with favourites products
+page with favourites products`
 pagination
 
 3) Your approach to the product, including any design decisions or tradeoﬀs you made
