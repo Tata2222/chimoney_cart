@@ -1,0 +1,16 @@
+.not_found__page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+ 
+  &_title {
+    display: block;
+    margin: 70px auto 60px;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 #1d1d1b;
+  }
+}

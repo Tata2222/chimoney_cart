@@ -1,0 +1,20 @@
+/* font-family: 'Raleway', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+
+@import './base/reset.scss';
+@import './base/variables.scss';
+@import './base/mixins.scss';
+
+@import '../components/layout/styles.scss';
+@import '../components/header/styles.scss';
+@import '../components//nav/styles.scss';
+@import '../components/card/styles.scss';
+@import '../components/cart_card/styles.scss';
+@import '../components/loader/styles.scss';
+@import '../components/recommend_card/styles.scss';
+
+@import '../pages/catalog_page/styles.scss';
+@import '../pages/cart_page/styles.scss';
+@import '../pages/fav_page/styles.scss';
+@import '../pages/confirmation_page/styles.scss';
+@import '../pages/not_found_page/styles.scss'
