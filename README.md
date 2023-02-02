@@ -6,14 +6,13 @@ How to run your project
 
 In the project directory, you can run:
 1)  git clone https://github.com/Tata2222/chimoney_cart.git
-
-2) npm start
+2) npm i
+3) npm start
 
 
 2) Any additional features you implemented
 
 page with favourites products
-
 pagination
 
 3) Your approach to the product, including any design decisions or tradeoﬀs you made
