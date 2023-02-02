@@ -8,6 +8,7 @@ In the project directory, you can run:
 1)  git clone https://github.com/Tata2222/chimoney_cart.git
 2) npm i
 3) npm start
+4) you can also see the deployed app on the website https://chimoney-cart.vercel.app/
 
 
 2) Any additional features you implemented
